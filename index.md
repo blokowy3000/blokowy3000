@@ -3,6 +3,4 @@
 I making Minecraft maps, Servers and plugins
 
 [Discord](https://bit.ly/servforall)
-### Markdown
-^
-|______ Join to my discord
+Join to my discord
