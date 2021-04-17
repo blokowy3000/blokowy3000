@@ -5,12 +5,4 @@ I making Minecraft maps, Servers and plugins
 [Discord](https://bit.ly/servforall)
 ### Markdown
 ^
-|
 |______ Join to my discord
-
-```markdown
-
-
-# Header 1
-## Header 2
-### Header 3
