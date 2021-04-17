@@ -2,7 +2,7 @@
 
 I making Minecraft maps, Servers and plugins
 
-[Discord](bit.ly/servforall)
+[Discord](https://bit.ly/servforall)
 ### Markdown
 ^
 |
